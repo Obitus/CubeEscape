@@ -107,6 +107,16 @@ public class MapGenerator {
         return cube;
     }
 
+    public static void newReallyImportantTestMethodeWithNoUse(){
+        
+        
+        
+        /*
+         * 
+         * 
+         * 
+         */
+    }
     
     /**
      * Set one room of the cube as start room and one as end room

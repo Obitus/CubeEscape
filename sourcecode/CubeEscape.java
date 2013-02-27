@@ -26,8 +26,7 @@ public class CubeEscape {
     public CubeEscape() {
         currentRoom = MapGenerator.generateRandomMap(MapGenerator.CUBE_LENGTH_HARD);
         parser = new Parser();
-        finished = false;
-        System.exit(0);
+        finished = false;        
     }
 
     
